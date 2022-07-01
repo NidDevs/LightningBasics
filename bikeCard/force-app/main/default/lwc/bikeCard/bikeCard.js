@@ -1,3 +1,13 @@
+<!--
+*******************************************************************
+
+* Component Name: BikeCards
+* Created by : Nidhi Sharma
+-------------------------------------------------------------------
+* Purpose:Created to display the bike pic on the lightning app page
+*******************************************************************
+**-->
+    
 import { LightningElement } from 'lwc';
 export default class BikeCard extends LightningElement {
    name = 'Electra X4';
