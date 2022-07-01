@@ -4,7 +4,7 @@
 * Component Name: BikeCards
 * Created by : Nidhi Sharma
 -------------------------------------------------------------------
-* Purpose:Created to display the bike pic on the lightning app page
+* Purpose: Created to display the bike pic on the lightning app page
 *******************************************************************
 **-->
     
